@@ -42,3 +42,7 @@
 
 # Build folder
 build/
+
+#some testing stuff
+src/matrixtools3.cpp
+include/matrixtools3.hpp

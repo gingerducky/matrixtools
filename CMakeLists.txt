@@ -7,6 +7,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 add_executable(matrix-tools
     src/main.cpp
+    src/matrixtools.cpp
 )
 
 target_include_directories(matrix-tools PUBLIC ${PROJECT_SOURCE_DIR}/include)
